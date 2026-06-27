@@ -1,6 +1,6 @@
 🚀 Flutter Foundation
 
-A scalable and production-ready Flutter foundation for rapid application development.
+A scalable and production-ready Flutter foundation that provides reusable components, clean architecture, and essential development tools to accelerate the creation of high-quality, maintainable, and feature-rich mobile applications.utilities.
 
 ## ✨ Features
 
