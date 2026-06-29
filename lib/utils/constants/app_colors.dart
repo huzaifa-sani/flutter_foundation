@@ -9,9 +9,9 @@ class AppColors {
   static const Color back = Color(0xFFFDdf9F9);
 
   static const Color transparent = Colors.transparent;
-  static const Color white = Colors.white;
-  static const Color black = Colors.black;
-  static const Color red = Colors.red;
+  static const Color whiteColor = Colors.white;
+  static const Color blackColor = Colors.black;
+  static const Color redColor = Colors.red;
   static const Color filledColor = Color(0xFFF9FAFB);
   static const Color textFiledColor = Color(0xFF979797);
 
